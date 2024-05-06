@@ -4,3 +4,4 @@ scikit-learn
 ipynb
 jinja2
 numpy
+openpyxl
